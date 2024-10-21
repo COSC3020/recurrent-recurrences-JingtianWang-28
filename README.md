@@ -59,3 +59,10 @@ $T(n) = 13^i(T)(n/13^i)+2ni$\
 $i = log_13(n)$\
 $T(n) = nT(1)+2nlog_13(n)$\
 $T(n)∈theta(nlogn)$\
+
+
+###
+https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf
+Sources: chatgept provide me with ideas for proof methods. And complete the assignment through the examples and theorems on the above website.
+
+Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
